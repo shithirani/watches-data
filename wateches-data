@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Apple Watch Series 9",
+    "brand": "Apple",
+    "price": 400
+
+  },
+  {
+    "name": "Galaxy Watch 6",
+    "brand": "Samsung",
+    "price": 349.99
+  },
+  {
+    "name": "Forerunner 955",
+    "brand": "Garmin",
+    "price": 499.99
+  },
+  {
+    "name": "Versa 4",
+    "brand": "Fitbit",
+    "price": 229.95
+  }
+]
